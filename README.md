@@ -1,4 +1,4 @@
-# Enhancing Educational Data Analysis with Deep Learning: A Study on Replicability and Carbon Footprint
+# A Replicable and Comprehensive Framework for Machine Learning and Deep Learning in Educational Data Mining
 
 This repository contains the code and supplementary materials for the research article "A Replicable and Comprehensive Framework for Machine Learning and Deep Learning in Educational Data Mining". The study explores the replicability of Machine Learning (ML) and Deep Learning (DL) models on educational datasets and measures the carbon footprint associated with the computational processes.
 
